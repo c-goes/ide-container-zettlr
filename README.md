@@ -1,6 +1,6 @@
 # ide-container-zettlr
 
-A Containerfile that builds container with Zettlr for Podman
+A Containerfile that builds container with [Zettlr](https://www.zettlr.com/) for Podman
 
 # Usage
 
